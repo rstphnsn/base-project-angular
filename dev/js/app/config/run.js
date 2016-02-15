@@ -1,6 +1,6 @@
 window.app.run(function () {
     'use strict';
 
-    console.log('App: Running');
+    // console.log('App: Running');
 
 });

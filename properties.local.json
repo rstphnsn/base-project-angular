@@ -1,5 +1,4 @@
 {
     "env": "local",
-    "service_url": "",
-    "cookie_length": "1"
+    "service_url": ""
 }
